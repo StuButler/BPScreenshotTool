@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ScreenshotTool",
+	"Description": "Screenshot Tool",
+	"Category": "Other",
+	"CreatedBy": "Stuart Butler",
+	"CreatedByURL": "https://github.com/StuButler",
+	"DocsURL": "https://github.com/StuButler/BPScreenshotTool",
+	"MarketplaceURL": "N/A",
+	"SupportURL": "https://github.com/StuButler",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
