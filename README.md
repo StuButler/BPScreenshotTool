@@ -3,7 +3,7 @@ A prototype screenshot tool for Unreal Engine 5 to offer more control over the s
 
 This dockable Editor Widget offers improved control of the dimesions of your screenshot (including some presets) and the option to save screenshots to a chosen directory (other than the default folder in your project folder).
 
-![screenshot](assets/ScreenshotToolScreenshot.png)
+![screenshot](assets/ScreenshotToolScreenshot2.png)
 
 The tool was last tested in Unreal Engine 5.1.0 - will confirm functionality in later versions soon.
 
