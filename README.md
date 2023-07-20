@@ -18,7 +18,7 @@ To install the screenshot tool, you need to:
 1. Download the source from Github.com 
 2. Add the **ScreenshotTool** folder to the **Plugins** directory of the project you want to use the tool in
 3. Open the Content Browser in the Unreal Engine editor and Click Settings
-4. Ensure **Show Plugin Content** is turned **ON**
+4. Ensure **Show Plugin Content** and **Show Engine Content** are turned **ON**
    
 ![show plugin content screenshot](assets/SettingsScreenshot.png)
 
