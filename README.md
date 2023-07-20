@@ -11,7 +11,8 @@ I plan on creating a new version with more features that is installable to the e
 
 I'd appreciate any feedback, comments, ideas, suggestions etc.
 
-##Installation Instructions
+---
+## Installation Instructions
 
 To install the screenshot tool, you need to:
 1. Download the source from Github.com 
