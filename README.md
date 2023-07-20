@@ -28,3 +28,6 @@ To install the screenshot tool, you need to:
 ![run editor utility widget screenshot](assets/RunScreenshot.png)
 
 8. To dock the tool simply drag the tab onto another part of the Editor UI.
+9. You can re-open the tool from the top toolbar by navigating to **Tools > Editor Utility Widgets > Screenshot Tool V 1**
+
+![toolbar screenshot](assets/ToolbarScreenshot.png)
