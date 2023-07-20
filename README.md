@@ -9,7 +9,7 @@ The tool was last tested in Unreal Engine 5.1.0 - will confirm functionality in 
 
 I plan on creating a new version with more features that is installable to the engine via the marketplace in the future but for now I'd like to provide this version for free to anyone who wants to try it out.
 
-I'd appreciate any feedback, comments, ideas, suggestions etc.
+I'd appreciate any feedback, comments, ideas, suggestions etc. If you want to contact me, feel free to reach out via [Twitter](www.twitter.com/stu3dart) or via Email - Stu (at) Thundersteed (dot) co (dot) uk
 
 ---
 ## Installation Instructions
