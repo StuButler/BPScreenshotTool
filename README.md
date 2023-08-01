@@ -1,4 +1,4 @@
-# Screenshot Tool V.1 - Blueprint Utility Widget
+# Screenshot Tool V.0.1 - Blueprint Utility Widget
 A prototype screenshot tool for Unreal Engine 5 to offer more control over the screenshot / render creation process.
 
 This dockable Editor Widget offers improved control of the dimesions of your screenshot (including some presets) and the option to save screenshots to a chosen directory (other than the default folder in your project folder).
